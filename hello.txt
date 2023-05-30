@@ -1,3 +1,6 @@
 hEllo Coding Factory 
-Version 2 Hello Cf
-Th. androutos kdkdkdk
+<<<<<<< HEAD
+=======
+Version 2 Hello Cf!
+Version 3!!!
+>>>>>>> hotfix
